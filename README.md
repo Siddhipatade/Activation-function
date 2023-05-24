@@ -12,13 +12,14 @@ The activation function does the non-linear transformation to the input making i
 
 ## Variants of Activation Function 
 
-1. Linear Function
+#### 1. Linear Function
 Equation : Linear function has the equation similar to as of a straight line i.e. `y = x`
+
 Range : -inf to +inf
+
 ![image](https://github.com/Siddhipatade/Activation-function/assets/91782986/0aa2f2d9-5821-4c23-a6f6-87526fdd7654)
 
-
-2. Sigmoid Function
+### 2. Sigmoid Function
 It is a function which is plotted as ‘S’ shaped graph.
 Equation : 
 
@@ -29,7 +30,7 @@ Uses : Usually used in output layer of a binary classification, where result is 
 ![image](https://github.com/Siddhipatade/Activation-function/assets/91782986/be4c3f43-b17a-484d-978f-b45087faa23e)
 
 
-3. Tanh Function 
+### 3. Tanh Function 
 Equation :
 
 ![image](https://github.com/Siddhipatade/Activation-function/assets/91780318/ec1eb92d-d168-4f47-a9c7-e0013cd20c58)
@@ -38,11 +39,12 @@ Value Range :- -1 to +1
 Nature :- non-linear
 Uses :- Usually used in hidden layers of a neural network as it’s values lies between -1 to 1.
 
-4. RELU Function 
+### 4. RELU Function 
 It Stands for Rectified linear unit. It is the most widely used activation function. implemented in hidden layers of Neural network.
 Equation :
 
     A(x) = max(0,x). 
+
 It gives an output x if x is positive and 0 otherwise.
 
 Value Range :- [0, inf)
@@ -50,7 +52,8 @@ Value Range :- [0, inf)
 ![image](https://github.com/Siddhipatade/Activation-function/assets/91782986/2077295a-f7e5-4d8b-bd32-f4e16b129afc)
 
 
-5. Softmax Function
+### 5. Softmax Function
+
 The softmax function is also a type of sigmoid function but is handy when we are trying to handle multi- class classification problems.
 Nature :- non-linear
 
