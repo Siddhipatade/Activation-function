@@ -17,7 +17,7 @@ Equation : Linear function has the equation similar to as of a straight line i.e
 
 Range : -inf to +inf
 
-![image](https://github.com/Siddhipatade/Activation-function/assets/91782986/0aa2f2d9-5821-4c23-a6f6-87526fdd7654)
+![image](https://github.com/Siddhipatade/Activation-function/assets/91780318/58f295e2-80a8-4af3-83aa-796e3ee98291)
 
 ### 2. Sigmoid Function
 It is a function which is plotted as ‘S’ shaped graph.
@@ -58,4 +58,5 @@ Value Range :- [0, inf)
 The softmax function is also a type of sigmoid function but is handy when we are trying to handle multi- class classification problems.
 Nature :- non-linear
 
-![image](https://github.com/Siddhipatade/Activation-function/assets/91780318/78a9124e-f899-481c-a890-b264245a6162)
+![image](https://github.com/Siddhipatade/Activation-function/assets/91780318/f657ea19-edc0-402c-8f35-d49894565a54)
+
