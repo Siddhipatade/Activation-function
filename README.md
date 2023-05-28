@@ -51,8 +51,7 @@ It gives an output x if x is positive and 0 otherwise.
 
 Value Range :- [0, inf)
 
-![image](https://github.com/Siddhipatade/Activation-function/assets/91782986/2077295a-f7e5-4d8b-bd32-f4e16b129afc)
-
+![image](https://github.com/Siddhipatade/Activation-function/assets/91780318/49b60933-68ed-4aba-9619-a9e17b903dbe)
 
 ### 5. Softmax Function
 
