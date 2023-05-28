@@ -39,6 +39,8 @@ Value Range :- -1 to +1
 Nature :- non-linear
 Uses :- Usually used in hidden layers of a neural network as it’s values lies between -1 to 1.
 
+![image](https://github.com/Siddhipatade/Activation-function/assets/91780318/24ecb14a-15d3-4d46-af09-384e27bb34fc)
+
 ### 4. RELU Function 
 It Stands for Rectified linear unit. It is the most widely used activation function. implemented in hidden layers of Neural network.
 Equation :
